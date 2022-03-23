@@ -2,10 +2,8 @@
   I'm Lorena Araujo!
 </h1>
 
-<div align="center">
 ![Lorena GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaaraujoo&show_icons=true&theme=dracula)
 [![Lorena](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaaraujoo&layout=compact)](https://github.com/lorenaaraujoo/github-readme-stats)
-</div> 
 
 <div style="display: inline-block"> <br/>
   <h1> Tecnologias que utilizo </h1>
