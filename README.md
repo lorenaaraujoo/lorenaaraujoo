@@ -4,13 +4,11 @@
 
 <div align="center">
 ![Lorena GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenaaraujoo&show_icons=true&theme=dracula)
-
 [![Lorena](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenaaraujoo&layout=compact)](https://github.com/lorenaaraujoo/github-readme-stats)
 </div> 
 
-## Tecnologias que utilizo
-
 <div style="display: inline-block"> <br/>
+  <h1> Tecnologias que utilizo </h1>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
