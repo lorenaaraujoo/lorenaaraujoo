@@ -2,6 +2,8 @@
   I'm Lorena Araujo!
 </h1>
 
+#
+
 <div align="center">
   <a href="https://github.com/lorenaaraujooo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenaaraujoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,7 +20,8 @@
   <img alt="sqlserver" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
 
-
+#
 <div align="center">
   <a href="https://www.linkedin.com/in/lorena-araujo-708432206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lorenaarauj0_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
