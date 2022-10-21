@@ -2,6 +2,14 @@
   I'm Lorena Araujo!
 </h1>
 
+   :computer: I'm Front-end Developer!
+   
+  :house_with_garden: I’m from Brazil.
+  
+🌱 I’m currently learning React.
+
+:heart: lover of technology and coding.
+
 <div align="center">
   <a href="https://github.com/lorenaaraujooo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenaaraujoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
