@@ -6,7 +6,7 @@
    
   :house_with_garden: I’m from Brazil.
   
-🌱 I’m currently learning React.
+🌱 I’m currently learning PHP and Java.
 
 :heart: lover of technology and coding.
 
