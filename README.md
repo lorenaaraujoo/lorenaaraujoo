@@ -3,8 +3,6 @@
 </h1>
 
    :computer: I'm Back-End Developer!
-   
-  :house_with_garden: I’m from Brazil.
   
 🌱 I’m currently learning PHP and Java.
 
