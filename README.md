@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, i'm Lorena Araujo!
+  Hello, I'm Lorena Araujo!
 </h1>
 
    :computer: I'm Back-End Developer!
