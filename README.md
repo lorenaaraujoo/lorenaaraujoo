@@ -8,7 +8,7 @@
   
 🌱 I’m currently learning PHP and Java.
 
-:heart: lover of technology and coding.
+  :heart: lover of technology and coding.
 
 <div align="center">
   <a href="https://github.com/lorenaaraujooo">
