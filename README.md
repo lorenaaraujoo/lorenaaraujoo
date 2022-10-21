@@ -2,7 +2,7 @@
   I'm Lorena Araujo!
 </h1>
 
-   :computer: I'm Front-end Developer!
+   :computer: I'm Back-End Developer!
    
   :house_with_garden: I’m from Brazil.
   
