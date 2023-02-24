@@ -2,9 +2,9 @@
   Hello, I'm Lorena Araujo!
 </h1>
 
-   :computer: I'm Back-End Developer!
+   :computer: I'm Front-End Developer!
   
-🌱 I’m currently learning PHP and Java.
+🌱 I’m currently learning React and React Native.
 
   :heart: lover of technology and coding.
 
