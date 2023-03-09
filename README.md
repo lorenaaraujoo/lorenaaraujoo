@@ -2,7 +2,7 @@
   Hello, I'm Lorena Araujo!
 </h1>
 
-   :computer: I' Developer Systems!
+   :computer: I'm Developer Systems!
   
 🌱 I’m currently learning React and React Native.
 
